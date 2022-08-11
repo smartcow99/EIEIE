@@ -1,0 +1,25 @@
+@import "mixins";
+@import "variables";
+
+.container {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+    width: 100vw;
+    height: $header-pc;
+
+    // box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
+    // background-color: #212531;
+
+    z-index: 1000000;
+
+    @media (max-width: $width-pc1) {
+        height: $header-mobile;
+        box-shadow: 0;
+        background-color: transparent;
+    }
+}
+//임시로 넣어놓음 나중에 바꾸기
