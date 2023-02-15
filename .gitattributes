@@ -1,5 +1,5 @@
+src/** linguist-vendored
 
-*.ts linguist-vendored
 **/*.html linguist-vendored
 *.html linguist-vendored
 **/*.scss linguist-vendored
