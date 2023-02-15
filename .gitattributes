@@ -1,6 +1,4 @@
-**/*/*/*.ts linguist-vendored
-**/*/*.ts linguist-vendored
-**/*.ts linguist-vendored
+
 *.ts linguist-vendored
 **/*.html linguist-vendored
 *.html linguist-vendored
