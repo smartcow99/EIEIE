@@ -1,6 +1,2 @@
-src/** linguist-vendored
-
-**/*.html linguist-vendored
-*.html linguist-vendored
-**/*.scss linguist-vendored
-*.scss linguist-vendored
+front_app/** linguist-vendored
+front_web/** linguist-vendored
