@@ -1,2 +1,2 @@
-front_app/** linguist-vendored
-front_web/** linguist-vendored
+front_app/**/** linguist-vendored
+front_web/**/** linguist-vendored
